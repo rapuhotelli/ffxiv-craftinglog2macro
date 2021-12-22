@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ffxiv-craftinglog2macro/static/css/main.79ae9a00.css",
+    "main.js": "/ffxiv-craftinglog2macro/static/js/main.85c502b7.js",
+    "static/js/787.0a408e51.chunk.js": "/ffxiv-craftinglog2macro/static/js/787.0a408e51.chunk.js",
+    "index.html": "/ffxiv-craftinglog2macro/index.html",
+    "main.79ae9a00.css.map": "/ffxiv-craftinglog2macro/static/css/main.79ae9a00.css.map",
+    "main.85c502b7.js.map": "/ffxiv-craftinglog2macro/static/js/main.85c502b7.js.map",
+    "787.0a408e51.chunk.js.map": "/ffxiv-craftinglog2macro/static/js/787.0a408e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79ae9a00.css",
+    "static/js/main.85c502b7.js"
+  ]
+}
