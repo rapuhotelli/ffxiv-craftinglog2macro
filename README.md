@@ -1,4 +1,4 @@
-#FFXIV Log to Macro converter
+# FFXIV Log to Macro converter
 
 Simple React jam to help me with tedious crafting. Just a base "create-react-app" template in TypeScript.
 
