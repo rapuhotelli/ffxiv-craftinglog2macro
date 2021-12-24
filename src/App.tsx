@@ -47,13 +47,12 @@ function App() {
       .map(line => line![1])
     const highlights = highlightPasteContent(textContent, skillNames)
     const blocks = constructMacroBlocks(skillNames)
-    console.log(highlights)
     setHighlightedText(highlights)
     setMacroBlocks(blocks)
   }
 
   const copyMacroBlockToClipboard = (macroBlockIndex: number) => {
-    const text = macroBlocks[macroBlockIndex].join('\n')
+    const text = macroBlocks[macroBlockIndex].join('\r\n')
     navigator.clipboard.writeText(text).then(() => {
       console.log('success')
     }).catch(() => {
